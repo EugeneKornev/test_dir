@@ -19,3 +19,6 @@ def bitwise_or(a, b):
 def bitwise_xor(a, b):
     return a ^ b 
 
+def shr(a, b):
+    return a >> b 
+
