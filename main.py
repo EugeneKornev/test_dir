@@ -15,3 +15,7 @@ def bitwise_and(a, b):
 
 def bitwise_or(a, b):
     return a | b
+
+def bitwise_xor(a, b):
+    return a ^ b 
+

@@ -12,3 +12,5 @@ assert bitwise_and(28, 14) == 12
 
 assert bitwise_or(25, 13) == 29
 
+assert bitwise_xor(17, 47) == 62
+
