@@ -10,3 +10,6 @@ def mult(a, b):
 def div(a, b):
     return a // b
 
+def bitwise_and(a, b):
+    return a & b 
+

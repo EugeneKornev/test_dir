@@ -8,3 +8,5 @@ assert mult(5, 18) == 90
 
 assert div(15, 0) == 0
 
+assert bitwise_and(28, 14) == 12
+
