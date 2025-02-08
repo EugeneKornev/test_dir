@@ -16,3 +16,5 @@ assert bitwise_xor(17, 47) == 62
 
 assert shr(15, 2) == 3
 
+assert shl(3, 4) == 48
+

@@ -22,3 +22,6 @@ def bitwise_xor(a, b):
 def shr(a, b):
     return a >> b 
 
+def shl(a, b):
+    return a << b
+
