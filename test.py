@@ -10,3 +10,5 @@ assert div(15, 0) == 0
 
 assert bitwise_and(28, 14) == 12
 
+assert bitwise_or(25, 13) == 29
+
